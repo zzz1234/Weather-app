@@ -1,0 +1,26 @@
+.Cards{
+    width: 250px;
+    height: 350px;
+    padding: 16px;
+    margin: 10px;
+    text-align: center;   
+    display: inline-block; 
+    border: 2px black;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.Cards:hover {
+    box-shadow: 0 20px 24px 0 rgba(0,0,0,0.2);
+}
+.container {
+    padding: 2px 16px;
+}
+.Image1{
+    width: 80px;
+}
+.Image2{
+    width: 100%;
+    height: 200px;
+    width: 200px;
+    align-content: center;
+}
